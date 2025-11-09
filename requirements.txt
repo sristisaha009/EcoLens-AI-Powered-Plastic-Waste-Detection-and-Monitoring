@@ -1,0 +1,8 @@
+flask
+flask-cors
+ultralytics>=8.0.0
+opencv-python
+numpy
+pillow
+matplotlib
+torch>=1.12.0
